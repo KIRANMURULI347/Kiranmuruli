@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Kiran S R
-
-🎓 AIML Student at Government Tool Room & Training Centre  
-🤖 Currently learning Artificial Intelligence & Machine Learning  
-💻 Passionate about Coding, AI, and Emerging Technologies  
-📚 Continuously improving my skills through projects and practice  
-
+🎓 AIML Student at Government Tool Room & Training Centre 
 ---
 
 ## 🚀 About Me
@@ -21,17 +16,7 @@
 - 📊 Data Analysis  
 - 🤖 Machine Learning Basics  
 - 🗄️ SQL  
-
----
-
-## 📈 GitHub Goals
-- 📌 Build practical AI/ML projects
-- 📌 Contribute to open-source
-- 📌 Strengthen problem-solving skills
-- 📌 Keep learning and growing every day
-
----
-
+--
 ⭐ *“Learning today, leading tomorrow.”*
 
 
